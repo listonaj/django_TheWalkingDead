@@ -63,6 +63,12 @@ STEP 6: Adding Topics
 4. click on save when its done
 5. add another subject and save it
 
+STEP 7:
+
+1. go to the python file <models.py>
+2. create class Entry after the class Topic created on STEP 3 (see code) 
+3. 
+
 
 
 
