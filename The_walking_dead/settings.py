@@ -32,8 +32,8 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     # my app
-    'theWalkingDead'
-    
+    'theWalkingDead',
+
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
