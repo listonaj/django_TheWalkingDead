@@ -47,7 +47,21 @@ who have admin privilege to administrate the web page and modify.
 
 Note : Django create a hash based on your password. Each time you enter your password, Django hash it and compared that hash with the original hash created when you configured your credentials.
 
+STEP 6: Registering the Model with the admin site.
 
+1. go to the file <admin.py>
+2. see code 
+3. go to http://localhost:8000/admin/ to check your work
+4. enter your username and password to make sure it works.
+5. Ta daaa!
+
+STEP 6: Adding Topics
+
+1. on the admin page fron django, click on Topics
+2. click on the <+> sign to add a topic
+3. enter a topi in the text box 
+4. click on save when its done
+5. add another subject and save it
 
 
 
