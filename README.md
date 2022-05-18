@@ -45,6 +45,12 @@ who have admin privilege to administrate the web page and modify.
 3. the terminal prompt your email address: <your_email_address>
 4. the terminal prompt for a password: <your_password>
 
+Note : Django create a hash based on your password. Each time you enter your password, Django hash it and compared that hash with the original hash created when you configured your credentials.
+
+
+
+
+
 
 
 
