@@ -41,6 +41,10 @@ STEP 5: The Django Admin Site
 Allow the user to add some toppic through the topic model in the web page. Create a superuser
 who have admin privilege to administrate the web page and modify.
 1. <python manage.py createsuperuser>
+2. the terminal prompt your username:<your_user_name>
+3. the terminal prompt your email address: <your_email_address>
+4. the terminal prompt for a password: <your_password>
+
 
 
 
