@@ -1,7 +1,8 @@
 # Jean-Marc Romain _ 05-18-2022
 django_TheWalkingDead
-test django with my favorite tv show and have followed the intsructions from :
+lean to build a simple web application using the django framework
 
+source used for intsructions : 
 Matthes, Eric. Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming. 2nd ed., No Starch Press, 2019, p. 379
 
 STEPS 1 : create a project
