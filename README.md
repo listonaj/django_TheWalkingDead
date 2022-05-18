@@ -23,8 +23,16 @@ STEP 2: Starting an App
 
 STEP 3: Defining Model
 
-1. open the file models.py that is located on the app folder created at step 2
+1. open the file <models.py> that is located on the app folder created at step 2
 2. see code entered
+3. activate your model in the <settings.py> file
+4. in the field installed apps add your app between single quote 'theWalkingDead' - character sensitive(use same name)
+5. it is recommended to insert your app in the list before all the others 
+
+STEP 4: Make django modify data base and migrate
+
+1. at the terminal <python manage.py makemigration theWalkingDead>
+2. <python manage.py migrate>
 
 
 
